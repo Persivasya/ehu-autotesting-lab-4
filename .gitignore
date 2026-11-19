@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.war
+*.log
+hs_err_pid*
+
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+.DS_Store
